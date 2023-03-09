@@ -3,23 +3,23 @@
     {
       "id": "com.vrcfury.updater",
       "displayName": "VRCFury - Updater",
-      "latestUpmTargz": "https://github.com/VRCFury/VRCFury/releases/download/20230309.001309/com.vrcfury.updater-1.0.2.tgz",
-      "latestVersion": "1.0.2",
-      "hash": "0992c89bdc052e8bd646eee980be403e0b910302d52e6600adc91c6921a28f0d"
+      "latestUpmTargz": "https://github.com/VRCFury/VRCFury/releases/download/20230309.002335/com.vrcfury.updater-1.0.3.tgz",
+      "latestVersion": "1.0.3",
+      "hash": "77f2208c6f9eb13aabe81c13909ae50ce004d6a457dd4eba1265803d6adb0d19"
     },
     {
       "id": "com.vrcfury.legacyprefabs",
-      "latestVersion": "1.0.1",
-      "hash": "53df9c6e05998a62baf824364d6dba76002aa02c1336c5c03333c2a4fdbd278e",
+      "latestVersion": "1.0.2",
+      "hash": "a0210381a8280f60a6a850c2d71f9f08fdbad7c7707d9059bbc4b1429909bf2e",
       "displayName": "VRCFury - Legacy Prefabs",
-      "latestUpmTargz": "https://github.com/VRCFury/VRCFury/releases/download/20230309.001309/com.vrcfury.legacyprefabs-1.0.1.tgz"
+      "latestUpmTargz": "https://github.com/VRCFury/VRCFury/releases/download/20230309.002335/com.vrcfury.legacyprefabs-1.0.2.tgz"
     },
     {
       "id": "com.vrcfury.vrcfury",
-      "latestVersion": "1.0.1",
-      "hash": "37b618b8de3f95fcb8fa2605c9a4f2fa9da89d91cff0acd93ff6dcd552824c08",
+      "latestVersion": "1.0.2",
+      "hash": "69e394643304f7df5d46b6e7c00d6a2701e0a5b28cad9395887933b65b1bf53a",
       "displayName": "VRCFury",
-      "latestUpmTargz": "https://github.com/VRCFury/VRCFury/releases/download/20230309.001309/com.vrcfury.vrcfury-1.0.1.tgz"
+      "latestUpmTargz": "https://github.com/VRCFury/VRCFury/releases/download/20230309.002335/com.vrcfury.vrcfury-1.0.2.tgz"
     }
   ]
 }
