@@ -3,9 +3,9 @@
     {
       "id": "com.vrcfury.updater",
       "displayName": "VRCFury - Updater",
-      "latestUpmTargz": "https://github.com/VRCFury/VRCFury/releases/download/20230311.210206/com.vrcfury.updater-1.47.0.tgz",
-      "latestVersion": "1.47.0",
-      "hash": "07bcefaf2b97547dca1e2dbbf92c496a6279b79f9628d5bd2a1e0e633e0d32ef"
+      "latestUpmTargz": "https://github.com/VRCFury/VRCFury/releases/download/20230313.142742/com.vrcfury.updater-1.48.0.tgz",
+      "latestVersion": "1.48.0",
+      "hash": "b7beda5fb3f07e5e8bbd766717e8a45cd95efe130e650625677e68e9689bcb88"
     },
     {
       "id": "com.vrcfury.legacyprefabs",
