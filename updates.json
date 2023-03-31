@@ -9,10 +9,10 @@
     },
     {
       "id": "com.vrcfury.legacyprefabs",
-      "latestVersion": "1.56.0",
-      "hash": "431530f6ffe30f2daf7f40110c201499786326c82c510d272efdd350a167b4dc",
+      "latestVersion": "1.57.0",
+      "hash": "c0e1597e23265858e4986e83dffe8f7b7683448664433077f6d5d6bd370b03e7",
       "displayName": "VRCFury Prefabs",
-      "latestUpmTargz": "https://github.com/VRCFury/VRCFury/releases/download/com.vrcfury.legacyprefabs%2F1.56.0/com.vrcfury.legacyprefabs-1.56.0.tgz"
+      "latestUpmTargz": "https://github.com/VRCFury/VRCFury/releases/download/com.vrcfury.legacyprefabs%2F1.57.0/com.vrcfury.legacyprefabs-1.57.0.tgz"
     },
     {
       "id": "com.vrcfury.vrcfury",
