@@ -4,6 +4,15 @@
   "url": "https://vcc.vrcfury.com",
   "id": "com.vrcfury.listing",
   "packages": {
-
+    "com.vrcfury.vrcfury": {
+      "versions": {
+        "1.113.0": {
+          "name": "com.vrcfury.vrcfury",
+          "displayName": "VRCFury",
+          "version": "1.113.0"
+        }
+      },
+      "url": "https://github.com/VRCFury/VRCFury/releases/download/com.vrcfury.vrcfury%2F1.113.0/com.vrcfury.vrcfury-1.113.0.tgz"
+    }
   }
 }
