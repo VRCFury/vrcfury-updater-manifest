@@ -6,14 +6,14 @@
   "packages": {
     "com.vrcfury.vrcfury": {
       "versions": {
-        "1.117.0": {
+        "1.118.0": {
           "name": "com.vrcfury.vrcfury",
           "displayName": "VRCFury",
-          "version": "1.117.0",
+          "version": "1.118.0",
           "legacyFolders": {
             "Assets\\VRCFury": "00b990f230095454f82c345d433841ae"
           },
-          "url": "https://github.com/VRCFury/VRCFury/releases/download/com.vrcfury.vrcfury%2F1.117.0/com.vrcfury.vrcfury-1.117.0-vcc.zip"
+          "url": "https://github.com/VRCFury/VRCFury/releases/download/com.vrcfury.vrcfury%2F1.118.0/com.vrcfury.vrcfury-1.118.0-vcc.zip"
         }
       }
     }
