@@ -16,10 +16,10 @@
     },
     {
       "id": "com.vrcfury.vrcfury",
-      "latestVersion": "1.1496.0",
-      "hash": "bd9568db4ac94d3c33a8ec6ec288ba1180da13196a43c08fb3949288445d53e9",
+      "latestVersion": "1.1497.0",
+      "hash": "c2c8381970e31a735423b0fb2890b5a8cbb94d2ad32fbe4076ccf43b99b2bfff",
       "displayName": "VRCFury",
-      "latestUpmTargz": "https://github.com/VRCFury/VRCFury/releases/download/com.vrcfury.vrcfury%2F1.1496.0/com.vrcfury.vrcfury-1.1496.0.tgz"
+      "latestUpmTargz": "https://github.com/VRCFury/VRCFury/releases/download/com.vrcfury.vrcfury%2F1.1497.0/com.vrcfury.vrcfury-1.1497.0.tgz"
     },
     {
       "id": "com.vrcfury.installer",
